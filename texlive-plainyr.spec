@@ -1,6 +1,6 @@
 Name:		texlive-plainyr
 Version:	52783
-Release:	1
+Release:	2
 Summary:	Plain bibliography style, sorted by year first
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/plainyr
