@@ -3,7 +3,7 @@ Version:	52783
 Release:	2
 Summary:	Plain bibliography style, sorted by year first
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/plainyr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/plainyr
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/plainyr.r%{version}.tar.xz
 BuildArch:	noarch
